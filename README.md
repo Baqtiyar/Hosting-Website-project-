@@ -4,5 +4,6 @@ Hosting: hosting is something which makes digital content accessible online, and
 
 There are two types of Hosting 
 1. Static hosting - In this hosting content remains the same until changed manually, The files (HTML, CSS, JavaScript, images) are stored on a server and delivered as-is to the client, without any server-side processing. For example: portfolios, landing pages, and informational sites.
-3. Dynamic hosting - In this hosting content changes on user interaction, content is often retrieved from the database or generated through server-side scripts (Python). For example: social media platforms, e-commerce sites, or blogs.
+2. Dynamic hosting - In this hosting content changes on user interaction, content is often retrieved from the database or generated through server-side scripts (Python). For example: social media platforms, e-commerce sites, or blogs.
 
+# Before we begin, ensure that you have the following prerequisites:
