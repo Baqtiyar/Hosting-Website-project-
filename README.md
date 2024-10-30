@@ -12,6 +12,9 @@ There are two types of Hosting
 ● Web Browser 
 ● Basic Knowledge about Amazon S3 
 
+![Your paragraph text](https://github.com/user-attachments/assets/40415342-3dfa-42fc-996d-ddb891314b00)
+
+
 # The Flow of project 
 1. Open the AWS Management Console
 2. Search for Amazon S3
