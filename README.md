@@ -12,7 +12,7 @@ There are two types of Hosting
 ● Web Browser 
 ● Basic Knowledge about Amazon S3 
 
-![Your paragraph text](https://github.com/user-attachments/assets/40415342-3dfa-42fc-996d-ddb891314b00)
+![Hosting website using Amazon S3](https://github.com/user-attachments/assets/40415342-3dfa-42fc-996d-ddb891314b00)
 
 
 # The Flow of project 
